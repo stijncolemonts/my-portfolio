@@ -1,0 +1,4 @@
+Average Play Time per Game Genre:
+- RPG: 150.0
+- FPS: 100.0
+- Strategy: 150.0

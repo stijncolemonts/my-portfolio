@@ -1,0 +1,8 @@
+This line is 5 characters long.
+Another line that meets the condition.
+This line is too short.
+A longer line that contains a space.
+Line with more than 10 characters.
+This is also a valid line.
+This line meets the condition.
+Test line 2

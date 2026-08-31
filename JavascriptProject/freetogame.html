@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Free to Play Games</title>
+    <link type="text/css" href="styles/style.css" rel="stylesheet">
+    <script src="js/freetogame.js" defer></script>
+</head>
+<body>
+    <header>
+        <img src="images/RandomGeneratedAfbeeldingVoorGames.png" alt="Logo" class="logo">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="statistics.html">Statistics</a></li>
+                <li><a href="table-overview.html">Table Overview</a></li>
+                <li><a href="add-game.html">Add Game</a></li>
+                <li><a href="minecraft.html">Minecraft</a></li>
+                <li class="actual"><a href="freetogame.html" target="_blank">Free to Play</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Free-To-Play Games Database</h2>
+        <p>This table shows the most popular free-to-play games.</p>
+
+        <label>Filter by genre:</label>
+        <input type="text" id="genre-input" placeholder="e.g. Shooter">
+        <button id="sort-btn">Sort on title</button>
+
+        <div id="status"></div>
+
+        <div id="games-container"></div>
+    </main>
+
+    <footer>Stijn Colemonts Front-end - 2026</footer>
+</body>
+</html>
