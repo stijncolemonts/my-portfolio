@@ -15,11 +15,14 @@ I am looking for my first professional opportunity in IT, where I can apply my t
 
 ## Projects
 
-### Javascript Projects
-[View my CV](./Stijn.CV.pdf)
+### Html and Css School Projects
+[View my html css exam](./HtmlCssProject)
 
-### Python Projects
-[View my CV](./Stijn.CV.pdf)
+### Javascript School Projects
+[View my js exam](./JavascriptProject)
+
+### Python School Projects
+[View my python exam](./PythonProject)
 
 ## Education
 
