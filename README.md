@@ -1,4 +1,4 @@
-#Stijn Colemonts
+# Stijn Colemonts
 
 Computer Science student at UCLL University of Applied Sciences, currently pursuing my Bachelor's degree through distance learning.
 
@@ -15,11 +15,11 @@ I am looking for my first professional opportunity in IT, where I can apply my t
 
 ## Projects
 
-### Personal Portfolio
-My personal portfolio website built with HTML, CSS and JavaScript.
+### Javascript Projects
+[View my CV](./Stijn.CV.pdf)
 
 ### Python Projects
-Programming projects developed as part of my Computer Science studies at UCLL.
+[View my CV](./Stijn.CV.pdf)
 
 ## Education
 
