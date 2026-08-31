@@ -38,5 +38,5 @@ Level X28 — Hasselt, Belgium
 
 ## Contact
 
-- LinkedIn: [Stijn Colemonts](JOUW-LINKEDIN-LINK)
+- LinkedIn: [Stijn Colemonts](https://www.linkedin.com/in/stijn-colemonts-37180b3a8/)
 - Email: stijncolemonts19@gmail.com
